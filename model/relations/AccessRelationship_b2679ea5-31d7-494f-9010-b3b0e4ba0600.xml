@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiza"
+    id="b2679ea5-31d7-494f-9010-b3b0e4ba0600">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_f95cdb2b-8ae6-4667-b2ae-7424a20c580e.xml#f95cdb2b-8ae6-4667-b2ae-7424a20c580e"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_45c419ed-0dfb-4112-b1eb-1958799a4e09.xml#45c419ed-0dfb-4112-b1eb-1958799a4e09"/>
+</archimate:AccessRelationship>

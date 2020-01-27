@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Visualiza"
+    id="ba75da94-9c90-4e4c-8db0-8a0a5b613d32">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_eec48c76-77d7-49ca-b827-48055802050e.xml#eec48c76-77d7-49ca-b827-48055802050e"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_fb5d4d86-a99e-4f42-a3cd-bf5e1fe5e6dc.xml#fb5d4d86-a99e-4f42-a3cd-bf5e1fe5e6dc"/>
+</archimate:AccessRelationship>

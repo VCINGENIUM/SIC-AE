@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interopera"
+    id="88bba10a-2ebc-4531-aa85-d5f15c82ea61">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_9b086227-d69a-4036-974a-f0d7e4ec48de.xml#9b086227-d69a-4036-974a-f0d7e4ec48de"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_a5b3e149-3385-4b75-8fd7-e481908489fa.xml#a5b3e149-3385-4b75-8fd7-e481908489fa"/>
+</archimate:ServingRelationship>

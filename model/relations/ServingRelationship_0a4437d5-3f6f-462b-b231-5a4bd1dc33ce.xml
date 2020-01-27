@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Clinte interno"
+    id="0a4437d5-3f6f-462b-b231-5a4bd1dc33ce">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_e6c5957b-90db-49b9-a541-3e0160ed376d.xml#e6c5957b-90db-49b9-a541-3e0160ed376d"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_21f697a6-4aea-4687-8126-2a1f2e679a7d.xml#21f697a6-4aea-4687-8126-2a1f2e679a7d"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ODBC"
+    id="95792f84-94ac-4edd-865d-e47a254ff396">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_a3d5bafb-e74a-4b7e-a418-8a50e63f6849.xml#a3d5bafb-e74a-4b7e-a418-8a50e63f6849"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_92aea5e5-70ad-4554-bdfe-d9d64044f279.xml#92aea5e5-70ad-4554-bdfe-d9d64044f279"/>
+</archimate:ServingRelationship>

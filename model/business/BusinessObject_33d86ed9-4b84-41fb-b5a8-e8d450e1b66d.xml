@@ -1,0 +1,17 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Queja"
+    id="33d86ed9-4b84-41fb-b5a8-e8d450e1b66d">
+  <properties
+      key="Número identificación"/>
+  <properties
+      key="Nombre solicitante"/>
+  <properties
+      key="Dirección solicitante"/>
+  <properties
+      key="Correo solicitante"/>
+  <properties
+      key="Ciudad solicitante"/>
+  <properties
+      key="Número expediente"/>
+</archimate:BusinessObject>

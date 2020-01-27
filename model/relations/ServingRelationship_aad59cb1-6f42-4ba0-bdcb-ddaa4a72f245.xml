@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Revisa/asigna"
+    id="aad59cb1-6f42-4ba0-bdcb-ddaa4a72f245">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_7bc93ddc-6eaf-46ba-8e3e-093abdebc7c5.xml#7bc93ddc-6eaf-46ba-8e3e-093abdebc7c5"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_284f7d0e-9273-4c04-9369-ea4c5707897c.xml#284f7d0e-9273-4c04-9369-ea4c5707897c"/>
+</archimate:ServingRelationship>

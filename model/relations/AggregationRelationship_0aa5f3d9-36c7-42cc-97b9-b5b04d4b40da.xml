@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="coordinado por"
+    id="0aa5f3d9-36c7-42cc-97b9-b5b04d4b40da">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_2a001d3b-aa6e-45ad-af96-5e2f03837f9d.xml#2a001d3b-aa6e-45ad-af96-5e2f03837f9d"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_d22f212c-a2d0-49e1-850b-8151744d009c.xml#d22f212c-a2d0-49e1-850b-8151744d009c"/>
+</archimate:AggregationRelationship>

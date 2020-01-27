@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Envía"
+    id="2a26e377-c6bc-4694-be38-8d806b128252"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_9db00a4b-c2fe-4caf-aaee-ff229a461607.xml#9db00a4b-c2fe-4caf-aaee-ff229a461607"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_caaba227-2884-47ce-95c4-0190d6fb5151.xml#caaba227-2884-47ce-95c4-0190d6fb5151"/>
+</archimate:AccessRelationship>

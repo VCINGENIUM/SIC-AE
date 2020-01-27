@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SOAP"
+    id="60ce98e3-9085-4a78-90c3-863b76926272">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ae436164-caa2-45b8-9b65-328f4f30a6a9.xml#ae436164-caa2-45b8-9b65-328f4f30a6a9"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_76e21587-0d7c-4f97-a223-85fcb1eebfcd.xml#76e21587-0d7c-4f97-a223-85fcb1eebfcd"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gestiona"
+    id="34aab422-c963-416c-80f4-16f10720e3da">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_33aced58-d926-4a8d-a8f0-e0e10a7fbe09.xml#33aced58-d926-4a8d-a8f0-e0e10a7fbe09"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_5e7b988d-399f-4a56-89bc-741dbf3c253e.xml#5e7b988d-399f-4a56-89bc-741dbf3c253e"/>
+</archimate:AccessRelationship>

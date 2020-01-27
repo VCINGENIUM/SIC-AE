@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="consulta"
+    id="007d1af7-51a6-451d-8274-8c8e5634b514">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_30d8c2d7-b98e-4be5-b225-cee414dbaf17.xml#30d8c2d7-b98e-4be5-b225-cee414dbaf17"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_055c593f-442d-4f09-b88d-d9691f516f18.xml#055c593f-442d-4f09-b88d-d9691f516f18"/>
+</archimate:ServingRelationship>

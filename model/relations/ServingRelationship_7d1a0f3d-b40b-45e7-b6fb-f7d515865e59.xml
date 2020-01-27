@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Almacena"
+    id="7d1a0f3d-b40b-45e7-b6fb-f7d515865e59">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_1fbf0099-602e-4258-9890-0f129864bae4.xml#1fbf0099-602e-4258-9890-0f129864bae4"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_629897a8-47d9-4f04-bcfa-b735cee9f689.xml#629897a8-47d9-4f04-bcfa-b735cee9f689"/>
+</archimate:ServingRelationship>

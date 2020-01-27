@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generacion"
+    id="b1ffc1e2-48cc-45cc-9a1a-ed4e48e8d665">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_2377e21a-a0e8-4aa0-9923-85d8617fb176.xml#2377e21a-a0e8-4aa0-9923-85d8617fb176"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_8673b88a-55cd-4957-bcb8-7aef828503f9.xml#8673b88a-55cd-4957-bcb8-7aef828503f9"/>
+</archimate:AccessRelationship>

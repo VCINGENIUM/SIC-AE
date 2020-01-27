@@ -1,0 +1,11 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="49cdfcfa-a7ca-48af-8c3f-eca739650075">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_a070dfce-ed49-455f-8da1-328a0d5268b2.xml#a070dfce-ed49-455f-8da1-328a0d5268b2"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_e3dc9dc3-0183-49b4-b403-75e8d68a08d5.xml#e3dc9dc3-0183-49b4-b403-75e8d68a08d5"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,72 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registro nacional de bases de datos (Falta)"
+    id="44a62c1c-88e4-40ea-8346-b113e56b9f2a">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="d3c77132-c843-4915-b636-04653d361648"
+      textAlignment="1"
+      content="Mejorar porceso de incidentes para evitar denuncia">
+    <bounds
+        x="261"
+        y="176"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="a3676e28-6fe7-4dd1-8e7b-d35272570b39"
+      textAlignment="1"
+      content="Dentro de SISI verificar políticas, página web empresas .... Algoritos para identificar movimientos de empresas y deducir posibles nuevas bases de datos">
+    <bounds
+        x="244"
+        y="296"
+        width="219"
+        height="73"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="1d69c6a4-6cd0-48f4-bdff-2f10aa180253"
+      textAlignment="1"
+      content="Reporte de cumplimientos, alertas y verificaciones">
+    <bounds
+        x="513"
+        y="176"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="a9575705-8be3-41a2-893f-fb430ece08ba"
+      textAlignment="1"
+      content="Reportes Estadisticos que sea dinamico, cambiando las variables (ciudades, Sector, Montos, etc)&#xD;&#xA;">
+    <bounds
+        x="513"
+        y="293"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="2ddf691d-d8e6-473f-9995-c34ee16a405a"
+      textAlignment="1"
+      content="Automatizar el tema de la verificación de datos y filtros que realizan&#xD;&#xA;">
+    <bounds
+        x="767"
+        y="177"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="fbed9b07-fed6-416a-8664-0991201a4a53"
+      textAlignment="1"
+      content="Priorización y Monitoreo de los Casos">
+    <bounds
+        x="760"
+        y="301"
+        width="185"
+        height="80"/>
+  </children>
+</archimate:ArchimateDiagramModel>

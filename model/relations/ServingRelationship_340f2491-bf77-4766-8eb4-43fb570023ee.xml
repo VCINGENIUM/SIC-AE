@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integracion Flujos Documentales"
+    id="340f2491-bf77-4766-8eb4-43fb570023ee">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_df9db510-9a97-40ac-9f4d-274f9f1d265a.xml#df9db510-9a97-40ac-9f4d-274f9f1d265a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_4293078c-a724-464f-a21c-05eea5838432.xml#4293078c-a724-464f-a21c-05eea5838432"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ODBC"
+    id="34314d1b-e4bd-4b46-91ce-09ef7157e1b7">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_4bf50a89-26b1-453f-9b6f-39e9e4a26440.xml#4bf50a89-26b1-453f-9b6f-39e9e4a26440"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_b0dae481-02d6-453c-b400-377ca9df230a.xml#b0dae481-02d6-453c-b400-377ca9df230a"/>
+</archimate:ServingRelationship>

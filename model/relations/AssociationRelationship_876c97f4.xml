@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ISCI"
+    id="876c97f4">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_6239c7d2.xml#6239c7d2"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_c9fe6278.xml#c9fe6278"/>
+</archimate:AssociationRelationship>

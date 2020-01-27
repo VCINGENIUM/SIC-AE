@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Expide"
+    id="1aceb0bd-c7df-4d18-bf21-8945bc125ea9">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_9d2926de-7b7a-4379-bafb-2b2f620e8b7c.xml#9d2926de-7b7a-4379-bafb-2b2f620e8b7c"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_7c37ba9f-bd91-489d-9f85-3ae52a7fbdb9.xml#7c37ba9f-bd91-489d-9f85-3ae52a7fbdb9"/>
+</archimate:AccessRelationship>

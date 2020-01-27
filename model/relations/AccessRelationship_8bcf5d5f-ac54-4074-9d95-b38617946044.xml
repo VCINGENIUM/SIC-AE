@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Comunica"
+    id="8bcf5d5f-ac54-4074-9d95-b38617946044">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_364ffaac-b1ca-402f-a747-7f2c929e739f.xml#364ffaac-b1ca-402f-a747-7f2c929e739f"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_bfe34ba6-8394-40d0-b79c-b540b23e0cd8.xml#bfe34ba6-8394-40d0-b79c-b540b23e0cd8"/>
+</archimate:AccessRelationship>

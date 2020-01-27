@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ofrece"
+    id="a1eff93a-3c3c-4998-84e3-627c8f50b65b">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_9bac68f4-e45a-4dd0-918e-7fcfce15a772.xml#9bac68f4-e45a-4dd0-918e-7fcfce15a772"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_c84e6017-4148-4bcb-bde2-e9fbbf7b8a93.xml#c84e6017-4148-4bcb-bde2-e9fbbf7b8a93"/>
+</archimate:AccessRelationship>

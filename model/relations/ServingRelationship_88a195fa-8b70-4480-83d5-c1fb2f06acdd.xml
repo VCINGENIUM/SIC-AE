@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cliente externo"
+    id="88a195fa-8b70-4480-83d5-c1fb2f06acdd">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_7bc93ddc-6eaf-46ba-8e3e-093abdebc7c5.xml#7bc93ddc-6eaf-46ba-8e3e-093abdebc7c5"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_335fd8a0-7411-42c8-bff4-b8cdd55458e5.xml#335fd8a0-7411-42c8-bff4-b8cdd55458e5"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elabora"
+    id="c30cf239-9fe0-4d7f-9495-0e108740bfdc">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_aa618d42-9139-48c9-bf97-7a05fc7bab57.xml#aa618d42-9139-48c9-bf97-7a05fc7bab57"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_3e68a576-6710-4add-b041-d870fa8297fd.xml#3e68a576-6710-4add-b041-d870fa8297fd"/>
+</archimate:AssociationRelationship>

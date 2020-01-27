@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Persiste"
+    id="475470e0-27c3-47d8-9e9d-ead34cda0941">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_772816f4-cd59-4358-9f97-416776807520.xml#772816f4-cd59-4358-9f97-416776807520"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_be36b5ef-e332-46d6-b15f-8724d44b0fae.xml#be36b5ef-e332-46d6-b15f-8724d44b0fae"/>
+</archimate:ServingRelationship>

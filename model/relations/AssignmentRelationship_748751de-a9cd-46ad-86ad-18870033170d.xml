@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resonsable"
+    id="748751de-a9cd-46ad-86ad-18870033170d">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_29955f56-4894-475c-8c74-286e07e70140.xml#29955f56-4894-475c-8c74-286e07e70140"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_988cd54f-a650-462e-a50e-9b74301e0af1.xml#988cd54f-a650-462e-a50e-9b74301e0af1"/>
+</archimate:AssignmentRelationship>

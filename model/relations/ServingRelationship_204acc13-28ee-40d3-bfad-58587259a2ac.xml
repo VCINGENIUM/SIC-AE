@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registra Datos del Denunciante"
+    id="204acc13-28ee-40d3-bfad-58587259a2ac">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_69663a3c-bfb3-4c6e-bec8-1d1520f1bd02.xml#69663a3c-bfb3-4c6e-bec8-1d1520f1bd02"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_eb2e4b13-ae49-4e4b-b9eb-00f358f0f2f7.xml#eb2e4b13-ae49-4e4b-b9eb-00f358f0f2f7"/>
+</archimate:ServingRelationship>

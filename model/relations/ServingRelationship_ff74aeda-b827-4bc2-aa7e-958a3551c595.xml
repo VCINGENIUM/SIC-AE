@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="se articula con"
+    id="ff74aeda-b827-4bc2-aa7e-958a3551c595">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_2a001d3b-aa6e-45ad-af96-5e2f03837f9d.xml#2a001d3b-aa6e-45ad-af96-5e2f03837f9d"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_48e42aa9-3f7a-43d0-a1df-1f348886b9fb.xml#48e42aa9-3f7a-43d0-a1df-1f348886b9fb"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integrado"
+    id="bf7c98f8-05e9-41d8-b9d4-fd52282b6b09">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_1a2b328e-f1f7-446f-86f1-23f8a46031ca.xml#1a2b328e-f1f7-446f-86f1-23f8a46031ca"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_b8cda8c7-d19c-464d-8e87-79897558b1ce.xml#b8cda8c7-d19c-464d-8e87-79897558b1ce"/>
+</archimate:ServingRelationship>

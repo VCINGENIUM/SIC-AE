@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Puede requerir"
+    id="00a7d0e5-5454-4118-9a7e-adb9f3fe6448">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_b1abd40a-cf1a-41c8-a54b-e4b6848ce7e5.xml#b1abd40a-cf1a-41c8-a54b-e4b6848ce7e5"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_1c5b71db-527e-44b8-a19b-383a8c763591.xml#1c5b71db-527e-44b8-a19b-383a8c763591"/>
+</archimate:SpecializationRelationship>

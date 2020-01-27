@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publica"
+    id="02d0e54d-b7d5-4eaf-bb84-83d4d809aa70">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_6a147406-a227-409a-bd82-e24d9d4a13ba.xml#6a147406-a227-409a-bd82-e24d9d4a13ba"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_d93a9d8f-b073-4495-ad48-c4fffe810d02.xml#d93a9d8f-b073-4495-ad48-c4fffe810d02"/>
+</archimate:ServingRelationship>

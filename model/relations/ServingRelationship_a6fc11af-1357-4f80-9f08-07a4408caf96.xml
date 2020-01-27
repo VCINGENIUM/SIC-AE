@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RMI - IIOP"
+    id="a6fc11af-1357-4f80-9f08-07a4408caf96">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_994e9395-b152-4759-b684-5f53d7e0469c.xml#994e9395-b152-4759-b684-5f53d7e0469c"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_876cae46-84d1-4b00-b897-ebaefc6f6a7a.xml#876cae46-84d1-4b00-b897-ebaefc6f6a7a"/>
+</archimate:ServingRelationship>

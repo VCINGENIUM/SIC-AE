@@ -1,0 +1,19 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solicitud"
+    id="8aea3fc6-7f0a-4ac5-964d-146c69db21cb">
+  <properties
+      key="Descripcion"/>
+  <properties
+      key="Nombre solicitante"/>
+  <properties
+      key="Documento solicitante"/>
+  <properties
+      key="Marca o lema comercial"/>
+  <properties
+      key="Producto o servicio"/>
+  <properties
+      key="Comprobante de pago"/>
+  <properties
+      key="Poder"/>
+</archimate:BusinessObject>

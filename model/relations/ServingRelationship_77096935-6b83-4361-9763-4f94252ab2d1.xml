@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cliente iterno"
+    id="77096935-6b83-4361-9763-4f94252ab2d1">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_f45c8dcb-c79c-4a26-9300-84ca20b4f442.xml#f45c8dcb-c79c-4a26-9300-84ca20b4f442"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_ca369033-d15e-4d2c-89c7-8dd11afc7db9.xml#ca369033-d15e-4d2c-89c7-8dd11afc7db9"/>
+</archimate:ServingRelationship>

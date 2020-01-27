@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Se puede presentar"
+    id="c3448058-17a3-4f11-9311-8dabdb434d7d">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_44998e6c-f72f-407e-9302-ffe3e4b78bdb.xml#44998e6c-f72f-407e-9302-ffe3e4b78bdb"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_2b4b5f81-e141-43af-a964-d0b84d9d0940.xml#2b4b5f81-e141-43af-a964-d0b84d9d0940"/>
+</archimate:SpecializationRelationship>

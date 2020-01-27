@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RMI"
+    id="851baec1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_2f43cb5b.xml#2f43cb5b"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ae1cbf22.xml#ae1cbf22"/>
+</archimate:AssociationRelationship>

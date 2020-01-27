@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solicitud"
+    id="59872f29-1020-415d-ad75-3fb601e45178">
+  <properties
+      key="Nombre solicitante"/>
+  <properties
+      key="Domicilio solicitante"/>
+  <properties
+      key="Residencia solicitante"/>
+  <properties
+      key="Nacionalidad solicitante"/>
+  <properties
+      key="Comprobante de pago"/>
+  <properties
+      key="Poder"/>
+  <properties
+      key="Numero radicación"/>
+  <properties
+      key="Fecha presentación"/>
+</archimate:BusinessObject>

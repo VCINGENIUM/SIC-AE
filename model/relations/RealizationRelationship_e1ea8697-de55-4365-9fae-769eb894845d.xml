@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Muestra"
+    id="e1ea8697-de55-4365-9fae-769eb894845d">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_850a5b1f-b1b8-47cf-9063-279b3647c42b.xml#850a5b1f-b1b8-47cf-9063-279b3647c42b"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_c09bd259-1d9a-430b-8006-b1dceb726a28.xml#c09bd259-1d9a-430b-8006-b1dceb726a28"/>
+</archimate:RealizationRelationship>

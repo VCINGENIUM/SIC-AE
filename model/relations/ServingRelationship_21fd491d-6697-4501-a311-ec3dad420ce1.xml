@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Copia Archivos"
+    id="21fd491d-6697-4501-a311-ec3dad420ce1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ead44de5-beb3-4fc3-acdc-8dafff12dcbe.xml#ead44de5-beb3-4fc3-acdc-8dafff12dcbe"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_8711c81d-f832-439d-9d88-9bfa27f53680.xml#8711c81d-f832-439d-9d88-9bfa27f53680"/>
+</archimate:ServingRelationship>

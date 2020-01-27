@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aprobacion"
+    id="9a80e4c3-4af1-4d19-9005-8e7223c26a41">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_c12da16b-408b-49dc-98c7-4f7de8578907.xml#c12da16b-408b-49dc-98c7-4f7de8578907"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_d69018a5-4dd7-4c3f-9f2c-9dbaaaa7c640.xml#d69018a5-4dd7-4c3f-9f2c-9dbaaaa7c640"/>
+</archimate:AccessRelationship>

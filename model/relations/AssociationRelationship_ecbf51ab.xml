@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Usa"
+    id="ecbf51ab">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_ce102d8c.xml#ce102d8c"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_21d4df65.xml#21d4df65"/>
+</archimate:AssociationRelationship>

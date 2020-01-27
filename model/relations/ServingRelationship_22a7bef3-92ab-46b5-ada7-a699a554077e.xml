@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asigna"
+    id="22a7bef3-92ab-46b5-ada7-a699a554077e">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ff756ee3-a6d0-4d74-abdb-8b2315de1e74.xml#ff756ee3-a6d0-4d74-abdb-8b2315de1e74"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_a35e8279-d2d2-48db-b4f2-0ffffd9a7217.xml#a35e8279-d2d2-48db-b4f2-0ffffd9a7217"/>
+</archimate:ServingRelationship>

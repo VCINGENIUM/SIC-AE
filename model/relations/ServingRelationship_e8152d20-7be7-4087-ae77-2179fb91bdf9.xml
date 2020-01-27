@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utiliza"
+    id="e8152d20-7be7-4087-ae77-2179fb91bdf9">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_173246f9-a8ef-4189-b7b4-d63da89ebc5e.xml#173246f9-a8ef-4189-b7b4-d63da89ebc5e"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_db0499b8-8e2a-4212-9d03-ad1ae88e75b2.xml#db0499b8-8e2a-4212-9d03-ad1ae88e75b2"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solicita"
+    id="940c2b21-a271-436a-aad2-5de71196aad8">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_49566e99-b9bf-49be-b9d1-2f56f4226695.xml#49566e99-b9bf-49be-b9d1-2f56f4226695"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_a6eacbd6-6952-47f9-b771-937055a251b2.xml#a6eacbd6-6952-47f9-b771-937055a251b2"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Expone"
+    id="9fe3319a">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_3f9e21bb.xml#3f9e21bb"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_536a0662.xml#536a0662"/>
+</archimate:AssociationRelationship>

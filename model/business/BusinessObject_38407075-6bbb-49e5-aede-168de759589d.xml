@@ -1,0 +1,17 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Recurso"
+    id="38407075-6bbb-49e5-aede-168de759589d">
+  <properties
+      key="Número identificación"/>
+  <properties
+      key="Nombre solicitante"/>
+  <properties
+      key="Dirección solicitante"/>
+  <properties
+      key="Correo solicitante"/>
+  <properties
+      key="Ciudad solicitante"/>
+  <properties
+      key="Número expediente"/>
+</archimate:BusinessObject>

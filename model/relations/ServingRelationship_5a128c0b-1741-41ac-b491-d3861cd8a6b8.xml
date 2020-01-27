@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integracion de plataforma de interoperabilidad"
+    id="5a128c0b-1741-41ac-b491-d3861cd8a6b8">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_df9db510-9a97-40ac-9f4d-274f9f1d265a.xml#df9db510-9a97-40ac-9f4d-274f9f1d265a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_19405528-8725-4855-9c37-35c4a70cdea6.xml#19405528-8725-4855-9c37-35c4a70cdea6"/>
+</archimate:ServingRelationship>

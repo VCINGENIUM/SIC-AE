@@ -1,0 +1,23 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Certificado"
+    id="01cc5a05-23aa-4df9-8416-47b067c2004c">
+  <properties
+      key="Numero certificado"/>
+  <properties
+      key="Año expediente"/>
+  <properties
+      key="Numero expediente"/>
+  <properties
+      key="Clase"/>
+  <properties
+      key="Trámite"/>
+  <properties
+      key="Numero resolución"/>
+  <properties
+      key="Fecha resolución"/>
+  <properties
+      key="Fecha inicio vigencia"/>
+  <properties
+      key="Fecha finalización vigencia"/>
+</archimate:BusinessObject>

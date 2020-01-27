@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Virtualiza capa de servicios"
+    id="61948b62-58a0-4964-9350-b0d113d07c6a">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_29abf59a-eca2-4805-bc58-fbca41ae6254.xml#29abf59a-eca2-4805-bc58-fbca41ae6254"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_a3d5bafb-e74a-4b7e-a418-8a50e63f6849.xml#a3d5bafb-e74a-4b7e-a418-8a50e63f6849"/>
+</archimate:ServingRelationship>

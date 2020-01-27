@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Revisa"
+    id="7078ab82-2831-4f05-ba91-ef45dbc67b10">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_7dc6e858-66bc-46c7-96a6-fbdd1b4b127e.xml#7dc6e858-66bc-46c7-96a6-fbdd1b4b127e"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_ebd569a7-2a76-4818-88ff-d7b26149980d.xml#ebd569a7-2a76-4818-88ff-d7b26149980d"/>
+</archimate:AccessRelationship>

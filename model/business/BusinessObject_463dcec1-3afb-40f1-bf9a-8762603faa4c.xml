@@ -1,0 +1,14 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solicitud vía Nacional"
+    id="463dcec1-3afb-40f1-bf9a-8762603faa4c">
+  <properties
+      key="Nombre solicitante"/>
+  <properties
+      key="Documento solicitante"/>
+  <properties
+      key="Invención"/>
+  <properties
+      key="Dibujos"/>
+  <properties/>
+</archimate:BusinessObject>

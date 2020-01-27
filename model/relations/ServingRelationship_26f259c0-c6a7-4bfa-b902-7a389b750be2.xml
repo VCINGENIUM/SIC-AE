@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registra"
+    id="26f259c0-c6a7-4bfa-b902-7a389b750be2">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_78911e56-887a-4ceb-865a-f4ecaa86376f.xml#78911e56-887a-4ceb-865a-f4ecaa86376f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_49f7b0c2-5110-455e-9899-fdcea74da4b7.xml#49f7b0c2-5110-455e-9899-fdcea74da4b7"/>
+</archimate:ServingRelationship>

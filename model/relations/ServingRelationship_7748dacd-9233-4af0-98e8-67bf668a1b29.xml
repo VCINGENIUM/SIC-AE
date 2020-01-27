@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Almacenan"
+    id="7748dacd-9233-4af0-98e8-67bf668a1b29">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_ab32edcd-b162-436f-a3e9-588d524555f0.xml#ab32edcd-b162-436f-a3e9-588d524555f0"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_99e3b739-d85a-4ad9-a1c2-c4074eb926fe.xml#99e3b739-d85a-4ad9-a1c2-c4074eb926fe"/>
+</archimate:ServingRelationship>

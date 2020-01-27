@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consulta estado de transaccion"
+    id="6deb1d7c">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_cc8732b5.xml#cc8732b5"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_c50c9bb8.xml#c50c9bb8"/>
+</archimate:AssociationRelationship>

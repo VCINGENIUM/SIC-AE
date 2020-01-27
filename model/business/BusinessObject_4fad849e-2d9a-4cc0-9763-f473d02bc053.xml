@@ -1,0 +1,7 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Certificación"
+    id="4fad849e-2d9a-4cc0-9763-f473d02bc053">
+  <properties
+      key="Numero de certificado"/>
+</archimate:BusinessObject>

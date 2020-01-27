@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realizan"
+    id="2e19b019-a015-4c39-855c-0aab8feef3b5">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_3e43a6e4-170f-40b8-b864-b8b01c2b3d47.xml#3e43a6e4-170f-40b8-b864-b8b01c2b3d47"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_6261b436-67f8-4b8e-869f-55ccda559d75.xml#6261b436-67f8-4b8e-869f-55ccda559d75"/>
+</archimate:AssociationRelationship>

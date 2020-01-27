@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Posible salida"
+    id="99eba080-2464-4322-b69d-f3fdc2cbd846">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_0751942d-0c95-462b-a613-5f7b179eefa8.xml#0751942d-0c95-462b-a613-5f7b179eefa8"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_01d6d9d9-2e3e-4b41-bf5c-216b8e0c36e8.xml#01d6d9d9-2e3e-4b41-bf5c-216b8e0c36e8"/>
+</archimate:AccessRelationship>

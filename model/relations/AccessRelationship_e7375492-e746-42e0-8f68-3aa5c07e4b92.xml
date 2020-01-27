@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transmite"
+    id="e7375492-e746-42e0-8f68-3aa5c07e4b92">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_90530104-c896-404f-bfb9-356fb349c26a.xml#90530104-c896-404f-bfb9-356fb349c26a"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_69faabf3-ce35-44f1-bc96-273037a2baa1.xml#69faabf3-ce35-44f1-bc96-273037a2baa1"/>
+</archimate:AccessRelationship>

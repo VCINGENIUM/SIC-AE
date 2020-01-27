@@ -1,0 +1,40 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vigilancia Protección de Datos Personales"
+    id="cbede24f-ba02-4603-b5c3-fb5c37e3e63e">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="2730dba0-559f-4c6b-968a-39b35d520210">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="196f0876-a915-43c0-b38c-4270185147b7"
+        source="2730dba0-559f-4c6b-968a-39b35d520210"
+        target="e5f6e46d-1c9a-4820-a8ba-e78fa2794e81">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_6b167c6b-066d-4775-8f1e-b1f56b737442.xml#6b167c6b-066d-4775-8f1e-b1f56b737442"/>
+    </sourceConnections>
+    <bounds
+        x="252"
+        y="92"
+        width="436"
+        height="205"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="e5f6e46d-1c9a-4820-a8ba-e78fa2794e81"
+        targetConnections="196f0876-a915-43c0-b38c-4270185147b7">
+      <bounds
+          x="36"
+          y="84"
+          width="373"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_0f83e5a2-5d6d-403d-991d-50582eefc59e.xml#0f83e5a2-5d6d-403d-991d-50582eefc59e"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_66b1dd23-14c7-438e-84d4-e8412b7f8eac.xml#66b1dd23-14c7-438e-84d4-e8412b7f8eac"/>
+  </children>
+</archimate:ArchimateDiagramModel>

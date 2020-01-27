@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Copia Evidencias"
+    id="2cf4207a">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ae1cbf22.xml#ae1cbf22"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_81a2d01c.xml#81a2d01c"/>
+</archimate:AssociationRelationship>

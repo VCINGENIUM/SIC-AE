@@ -1,0 +1,7 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Comprobante de pago"
+    id="99478dbe-1a13-4a9a-b21d-8484fdabc594">
+  <properties
+      key="Tarifa"/>
+</archimate:BusinessObject>

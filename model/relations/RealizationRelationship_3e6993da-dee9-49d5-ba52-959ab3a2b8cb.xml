@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Genera"
+    id="3e6993da-dee9-49d5-ba52-959ab3a2b8cb">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_c0177514-26ec-45e5-8589-73d3fa785f2e.xml#c0177514-26ec-45e5-8589-73d3fa785f2e"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_d2f061b3-23b1-4f75-9f11-e2005e712857.xml#d2f061b3-23b1-4f75-9f11-e2005e712857"/>
+</archimate:RealizationRelationship>

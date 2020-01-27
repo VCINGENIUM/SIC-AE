@@ -1,0 +1,13 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solicitud"
+    id="881bed71-4ecc-47bf-8674-573080f41bfc">
+  <properties
+      key="Características técnicas"/>
+  <properties
+      key="Figuras o dibujos"/>
+  <properties
+      key="Nombre común"/>
+  <properties
+      key="Comprobante de pago"/>
+</archimate:BusinessObject>

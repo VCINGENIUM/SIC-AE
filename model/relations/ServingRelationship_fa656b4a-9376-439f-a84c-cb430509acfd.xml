@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Comunican"
+    id="fa656b4a-9376-439f-a84c-cb430509acfd">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_b9f07f9e-c6d2-4301-a1db-39accb4c5a16.xml#b9f07f9e-c6d2-4301-a1db-39accb4c5a16"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_9b086227-d69a-4036-974a-f0d7e4ec48de.xml#9b086227-d69a-4036-974a-f0d7e4ec48de"/>
+</archimate:ServingRelationship>

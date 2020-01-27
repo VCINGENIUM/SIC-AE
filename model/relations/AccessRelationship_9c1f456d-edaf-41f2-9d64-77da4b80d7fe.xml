@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Salilda"
+    id="9c1f456d-edaf-41f2-9d64-77da4b80d7fe">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_f84d2d95-bb88-418a-a0f8-5d84dfcfeffd.xml#f84d2d95-bb88-418a-a0f8-5d84dfcfeffd"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_68c5cb98-6ab2-401b-a6c2-86148529d9ad.xml#68c5cb98-6ab2-401b-a6c2-86148529d9ad"/>
+</archimate:AccessRelationship>

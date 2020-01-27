@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="A través de"
+    id="93096f2a-b66b-4919-a338-e9577e7b73ef"
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_41d98dc2-93bb-4384-884a-1bb3fb8600ff.xml#41d98dc2-93bb-4384-884a-1bb3fb8600ff"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_ac62beb4-bc19-48b2-9385-3053df032b32.xml#ac62beb4-bc19-48b2-9385-3053df032b32"/>
+</archimate:AccessRelationship>

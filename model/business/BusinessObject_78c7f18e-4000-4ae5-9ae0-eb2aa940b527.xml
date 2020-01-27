@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solicitud vía PCT"
+    id="78c7f18e-4000-4ae5-9ae0-eb2aa940b527">
+  <properties
+      key="Traducción"/>
+  <properties
+      key="Fecha entrada fase Nacional"/>
+</archimate:BusinessObject>

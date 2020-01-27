@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Entrada"
+    id="03545107-8ad0-4794-9bd7-e29520845b74"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_a80dd605-8040-4634-993d-9c45b534b487.xml#a80dd605-8040-4634-993d-9c45b534b487"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_8fabd75a-add0-4d35-83a0-29a65e3e59eb.xml#8fabd75a-add0-4d35-83a0-29a65e3e59eb"/>
+</archimate:AccessRelationship>

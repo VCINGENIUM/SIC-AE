@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Actualiza"
+    id="faa50686-641c-404e-9c6e-3562dac8e053">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_cf3c41cb-cd1f-4f02-957d-865b78a96563.xml#cf3c41cb-cd1f-4f02-957d-865b78a96563"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_b0dae481-02d6-453c-b400-377ca9df230a.xml#b0dae481-02d6-453c-b400-377ca9df230a"/>
+</archimate:ServingRelationship>

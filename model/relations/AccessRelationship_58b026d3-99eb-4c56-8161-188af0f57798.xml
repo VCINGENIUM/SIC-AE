@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Presenta"
+    id="58b026d3-99eb-4c56-8161-188af0f57798">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_4b32a997-f627-4117-b195-7c2f6a73797f.xml#4b32a997-f627-4117-b195-7c2f6a73797f"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_d47559b0-18b3-40a7-9bc9-a8f057f91f73.xml#d47559b0-18b3-40a7-9bc9-a8f057f91f73"/>
+</archimate:AccessRelationship>

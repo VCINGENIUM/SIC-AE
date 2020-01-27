@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sincroniza"
+    id="fc7ee3e8-20a1-4074-b816-4910d1d4d140">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ad890263-a341-4a01-90e3-dc4aaf6e749c.xml#ad890263-a341-4a01-90e3-dc4aaf6e749c"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_82a7fb9d-94d8-4579-b36f-ce37462e6c7b.xml#82a7fb9d-94d8-4579-b36f-ce37462e6c7b"/>
+</archimate:ServingRelationship>

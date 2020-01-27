@@ -1,0 +1,40 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Protección al Consumidor, Competencia Desleal e Infracción a los Derechos de Propiedad Industrial"
+    id="ea2490ec-307d-4c57-9c7a-f12e56ffaf6e">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="27205e41-9124-43b4-bff5-6125b3974f1e">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="1f894e63-5125-4b12-89a2-660df2bda3c6"
+        source="27205e41-9124-43b4-bff5-6125b3974f1e"
+        target="2ee5fd43-03b6-4db9-8733-b190584503fe">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_195bc7d0-6288-4bc8-a097-31a6550b409d.xml#195bc7d0-6288-4bc8-a097-31a6550b409d"/>
+    </sourceConnections>
+    <bounds
+        x="185"
+        y="300"
+        width="564"
+        height="193"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="2ee5fd43-03b6-4db9-8733-b190584503fe"
+        targetConnections="1f894e63-5125-4b12-89a2-660df2bda3c6">
+      <bounds
+          x="36"
+          y="72"
+          width="493"
+          height="69"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_22cf338a-5027-4b9e-a5ca-25eded8e3708.xml#22cf338a-5027-4b9e-a5ca-25eded8e3708"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_a96ef93b-c082-4645-bdc1-4cffde6d21ca.xml#a96ef93b-c082-4645-bdc1-4cffde6d21ca"/>
+  </children>
+</archimate:ArchimateDiagramModel>

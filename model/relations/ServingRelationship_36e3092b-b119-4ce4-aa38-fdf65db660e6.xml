@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consume"
+    id="36e3092b-b119-4ce4-aa38-fdf65db660e6">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_6840dbb0-c469-4be7-930c-b62f2c231bcc.xml#6840dbb0-c469-4be7-930c-b62f2c231bcc"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_6b5b3e08-651b-4960-b1ad-f0c93736f5e5.xml#6b5b3e08-651b-4960-b1ad-f0c93736f5e5"/>
+</archimate:ServingRelationship>

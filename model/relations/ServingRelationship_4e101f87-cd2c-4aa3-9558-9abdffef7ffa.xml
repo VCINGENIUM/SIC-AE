@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FTP"
+    id="4e101f87-cd2c-4aa3-9558-9abdffef7ffa">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_c6e1c48e-8673-424d-80de-c9a67a6c312d.xml#c6e1c48e-8673-424d-80de-c9a67a6c312d"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_820b0596-459c-4df5-bd1b-d97e6ee45403.xml#820b0596-459c-4df5-bd1b-d97e6ee45403"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Determina"
+    id="cf3bd569-7ce6-4d4c-81f0-ac1cca942e1b">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_59a2ef75-a1f0-4e13-970c-38133f47a044.xml#59a2ef75-a1f0-4e13-970c-38133f47a044"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_e042a654-6c54-4257-a38f-ebb8b5178944.xml#e042a654-6c54-4257-a38f-ebb8b5178944"/>
+</archimate:AccessRelationship>

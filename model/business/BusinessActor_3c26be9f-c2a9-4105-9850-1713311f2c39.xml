@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solicitante"
+    id="3c26be9f-c2a9-4105-9850-1713311f2c39">
+  <properties
+      key="Ubicación geográfica"
+      value="Solicitan la habilitación de una pestaña con la ubicación geográfica del denunciante"/>
+</archimate:BusinessActor>

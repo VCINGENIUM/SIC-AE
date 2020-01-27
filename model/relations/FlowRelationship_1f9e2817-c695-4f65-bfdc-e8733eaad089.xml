@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="influye"
+    id="1f9e2817-c695-4f65-bfdc-e8733eaad089">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_15752c7a-08e2-4087-be0d-883ebb2e7c99.xml#15752c7a-08e2-4087-be0d-883ebb2e7c99"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_7e27f98c-ee86-4410-9f39-d5ef73233138.xml#7e27f98c-ee86-4410-9f39-d5ef73233138"/>
+</archimate:FlowRelationship>

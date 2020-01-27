@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cliente inerno"
+    id="56e8a22e-56a2-4393-9fd0-a1cd1341a542">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_c03003a3-b6c2-44bd-a8b9-3579cbe0265c.xml#c03003a3-b6c2-44bd-a8b9-3579cbe0265c"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_7960885a-ccae-4eb6-9aa1-f460027bb508.xml#7960885a-ccae-4eb6-9aa1-f460027bb508"/>
+</archimate:ServingRelationship>

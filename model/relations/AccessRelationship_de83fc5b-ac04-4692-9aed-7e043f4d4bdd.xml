@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Entrega"
+    id="de83fc5b-ac04-4692-9aed-7e043f4d4bdd">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_d3a1a2c4-80e0-4caa-83b7-47f148c93102.xml#d3a1a2c4-80e0-4caa-83b7-47f148c93102"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_4a61b4ce-b1f0-4e62-b2b6-aa7ab8b9ffc0.xml#4a61b4ce-b1f0-4e62-b2b6-aa7ab8b9ffc0"/>
+</archimate:AccessRelationship>

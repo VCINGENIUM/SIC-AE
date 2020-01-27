@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solicitud"
+    id="66b21c3f-c786-4178-920b-77ea42c600eb">
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Lema comercial a cancelar"/>
+  <properties
+      key="Nombre solicitante"/>
+  <properties
+      key="Documento solicitante"/>
+  <properties
+      key="Número expediente"/>
+  <properties
+      key="Comprobante de pago"/>
+  <properties
+      key="Numero radicación"/>
+  <properties
+      key="Fecha presentación"/>
+</archimate:BusinessObject>

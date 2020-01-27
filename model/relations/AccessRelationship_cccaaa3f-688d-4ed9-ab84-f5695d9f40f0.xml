@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consulta"
+    id="cccaaa3f-688d-4ed9-ab84-f5695d9f40f0">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_1151f988-7607-4652-a1ed-fc6f9b95a3ba.xml#1151f988-7607-4652-a1ed-fc6f9b95a3ba"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_a7e3d5a1-d15f-4d53-ba53-1c595fe207db.xml#a7e3d5a1-d15f-4d53-ba53-1c595fe207db"/>
+</archimate:AccessRelationship>

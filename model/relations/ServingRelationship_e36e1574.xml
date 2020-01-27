@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Se consume por excel"
+    id="e36e1574">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_5901b098.xml#5901b098"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_b7c9edd1.xml#b7c9edd1"/>
+</archimate:ServingRelationship>

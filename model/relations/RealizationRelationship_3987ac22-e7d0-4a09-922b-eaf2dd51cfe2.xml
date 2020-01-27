@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Entrada"
+    id="3987ac22-e7d0-4a09-922b-eaf2dd51cfe2">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_881bed71-4ecc-47bf-8674-573080f41bfc.xml#881bed71-4ecc-47bf-8674-573080f41bfc"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_8f07ee33-34d9-4cd1-970a-4616a5870a25.xml#8f07ee33-34d9-4cd1-970a-4616a5870a25"/>
+</archimate:RealizationRelationship>

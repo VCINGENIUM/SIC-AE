@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registra estado de transaccion"
+    id="1cb85ece">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_c47fd39a.xml#c47fd39a"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_c50c9bb8.xml#c50c9bb8"/>
+</archimate:AssociationRelationship>

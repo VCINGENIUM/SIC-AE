@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validar interoperabilidad"
+    id="41284394-f023-47fe-8639-4a1174970d98">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_9d0b1283-0412-433d-a1aa-a5db95a46b77.xml#9d0b1283-0412-433d-a1aa-a5db95a46b77"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_34efd2ab-ced1-48ab-81e6-fddde76ae95d.xml#34efd2ab-ced1-48ab-81e6-fddde76ae95d"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Referencia de pago"
+    id="86870e8b-abdd-41b0-bf79-23364f3987f1">
+  <properties
+      key="Referencia"/>
+  <properties
+      key="Tarifa"/>
+</archimate:BusinessObject>

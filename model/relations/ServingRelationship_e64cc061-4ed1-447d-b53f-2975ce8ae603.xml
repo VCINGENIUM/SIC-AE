@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consultas"
+    id="e64cc061-4ed1-447d-b53f-2975ce8ae603">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_4ba359e3-0664-48db-a821-661ea137ac34.xml#4ba359e3-0664-48db-a821-661ea137ac34"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_ecd08c33-d6cd-45d6-9d0a-08a308a11242.xml#ecd08c33-d6cd-45d6-9d0a-08a308a11242"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aprovisiona la capacidad de computo requerido"
+    id="4f80ee0e-ecc9-4276-9800-8368f8350537">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_c73c7aeb-c291-445e-905b-34f2578c57f9.xml#c73c7aeb-c291-445e-905b-34f2578c57f9"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_1a59e823-29b9-49b0-9f8a-762aa7da7a23.xml#1a59e823-29b9-49b0-9f8a-762aa7da7a23"/>
+</archimate:ServingRelationship>

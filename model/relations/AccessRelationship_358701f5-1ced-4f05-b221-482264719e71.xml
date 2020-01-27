@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Salida"
+    id="358701f5-1ced-4f05-b221-482264719e71">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_988cd54f-a650-462e-a50e-9b74301e0af1.xml#988cd54f-a650-462e-a50e-9b74301e0af1"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_e623ff38-6828-44d9-b0c3-26dce15ac87b.xml#e623ff38-6828-44d9-b0c3-26dce15ac87b"/>
+</archimate:AccessRelationship>

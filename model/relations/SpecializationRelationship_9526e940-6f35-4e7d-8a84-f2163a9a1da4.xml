@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Recolecta"
+    id="9526e940-6f35-4e7d-8a84-f2163a9a1da4">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_8e464a6b-affd-4a5d-a83b-8a7dc85b1858.xml#8e464a6b-affd-4a5d-a83b-8a7dc85b1858"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_b2081dba-4c7e-4bbb-a866-aa5e842ca476.xml#b2081dba-4c7e-4bbb-a866-aa5e842ca476"/>
+</archimate:SpecializationRelationship>

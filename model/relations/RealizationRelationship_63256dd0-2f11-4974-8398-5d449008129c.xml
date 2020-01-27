@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hace"
+    id="63256dd0-2f11-4974-8398-5d449008129c">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_0e3715bb-50ca-4d98-b412-24a374b9f45e.xml#0e3715bb-50ca-4d98-b412-24a374b9f45e"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_71d1a041-926e-4bec-b365-fbeb7dcdfe8a.xml#71d1a041-926e-4bec-b365-fbeb7dcdfe8a"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consulta Perfiles de Radicacion"
+    id="e5f64ac8-0fdd-44df-af83-25fb8dc28c15">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_4c43579d-fc40-46a7-849a-a2d5edb5a9ab.xml#4c43579d-fc40-46a7-849a-a2d5edb5a9ab"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_c88bd6c1-f5f4-4483-9275-94cbe3c5dba3.xml#c88bd6c1-f5f4-4483-9275-94cbe3c5dba3"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lee"
+    id="5dc5a033-ffe9-4ed1-80a8-7bd0bb6611df">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_cf3c41cb-cd1f-4f02-957d-865b78a96563.xml#cf3c41cb-cd1f-4f02-957d-865b78a96563"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_b22f2020-d1a5-4876-b737-708b4261699f.xml#b22f2020-d1a5-4876-b737-708b4261699f"/>
+</archimate:AccessRelationship>
